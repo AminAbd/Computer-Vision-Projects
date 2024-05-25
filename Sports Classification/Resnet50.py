@@ -1,6 +1,5 @@
 import tensorflow as tf
 from tensorflow import keras
-from keras.layers import Dense, GlobalAveragePooling2D, RandomFlip, RandomZoom
 from keras.models import Sequential
 from keras.applications import ResNet50
 
